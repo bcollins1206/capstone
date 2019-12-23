@@ -1,0 +1,63 @@
+.jumbotron {
+  background-image: url(../photos/Peacock.jpg);
+  font-family: iceland;
+    box-shadow: 10px 5px 5px 5px black;
+}
+.right {
+  float: right;
+}
+
+body {
+  background-image: url(../photos/Pine_Lumber.jpg);
+  font-family: iceland;
+  
+
+}
+p {
+  text-indent:50px;
+
+}
+em {
+  color: red;
+
+}
+b {
+  color: yellow;
+}
+.card {
+    background-image: url(../photos/Peacock.jpg);
+      border: 2px solid grey;
+        box-shadow: 5px 5px 5px 5px black;
+        color: white;
+
+}
+.btn {
+  font-size: 25px;
+  font-family: iceland;
+
+}
+.card-header:hover {
+  transform:scale(1.25);
+  background-image: url(../photos/White_Chocolate.jpg);
+  color: black;
+
+}
+.navTop {
+  background-image: url(../photos/Peacock.jpg);
+  font-size: 25px;
+}
+.chapters {
+    background-image: url(../photos/Peacock.jpg);
+}
+.pearl {
+  background-image: url(../photos/White_Chocolate.jpg);
+
+}
+.pearl:hover {
+  background-image: url(../photos/White_Chocolate.jpg);
+  opacity: 0.7;
+}
+.cool {
+  box-shadow: 5px 5px 5px 5px black;
+  border-radius: 5px;
+}
